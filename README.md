@@ -8,3 +8,22 @@ https://www.wordproject.org/download/bibles/index.htm <br />
 
 The bible has of course the most consistent and well-defined numbering system and thus makes for a good material/proper propaedeutic if one wants to learn new languages contextually. <br/>
 
+**Generated output:**<br/>
+<p align="center">
+  <img src="https://github.com/salisale/trible/blob/master/output-samples/output-sample-1.png">
+</p>
+<br/>
+<p align="center">
+  <img src="https://github.com/salisale/trible/blob/master/output-samples/output-sample-2.png">
+</p>
+<br/>
+<p align="center">
+  <img src="https://github.com/salisale/trible/blob/master/output-samples/output-sample-3.png">
+</p>
+<br/><br/>
+
+**Generated json file:**<br/>
+<p align="center">
+  <img src="https://github.com/salisale/trible/blob/master/output-samples/json-map.png">
+</p>
+
